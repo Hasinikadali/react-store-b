@@ -1,9 +1,9 @@
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Cart from "./components/Cart";
-import Login from "./components/Login";
+import Login from "./components/login";
 import Register from "./components/Register"
-import Products from "./components/Products";
+import Products from "./components/products";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 function App(props) {
   return (
